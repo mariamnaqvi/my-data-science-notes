@@ -6,7 +6,7 @@ If you make a folder locally, and then move into that folder and run git clone a
 
 any folder on your computer can be a git repo but you have to get into it using git init
 
-reading labels for commits will show u which one u want to go back to. best to go to the last working version instead of starting from scratch
+reading labels for commits will show you which one you want to go back to. best to go to the last working version instead of starting from scratch
 
 git push -u origin master <<< only first push requires this. push is an upload clone is a download
 
